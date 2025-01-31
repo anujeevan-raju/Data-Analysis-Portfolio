@@ -13,7 +13,7 @@ Outside of work, I am a dedicated cricket player and love to travel to new place
 My CV in PDF.
 ## Table of contents
 
-- [About]
+- [About](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Project portfolio]
   * SQL
   	* data cleaning
