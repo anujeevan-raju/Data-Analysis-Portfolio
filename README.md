@@ -14,7 +14,7 @@ My CV in PDF.
 ## Table of contents
 
 - [About](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Project portfolio]
+- [Project portfolio](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   * SQL
   	* data cleaning
      * analysing
