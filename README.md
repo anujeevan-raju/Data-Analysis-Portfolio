@@ -28,7 +28,7 @@ My CV in PDF.
   * Excel
  
 - [Education](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#education)
-- [certifications]
+- [certifications](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#certification)
 - [contact]
 
 ## Portfolio Projects
