@@ -28,7 +28,7 @@ My CV in PDF.
  
 - [Education.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#education)
   
-- [Certifications.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#certification)
+- [Certifications.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#certifications)
   
 - [Contact.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
