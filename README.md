@@ -44,7 +44,7 @@ My CV in PDF.
 
 **Athreya High School, Mandya - SSLC, Jun - 2012 to May - 2013**
 
-## Certifications.
+## Certifications/Internships.
 - [Data Analytics Essential Certificate](https://www.netacad.com/certificates?issuanceId=343eb145-b307-4aeb-9d67-0d94d0c4faa8) (Jan - 2025, By CISCO Network Academy) 
 
 ## Contact.
