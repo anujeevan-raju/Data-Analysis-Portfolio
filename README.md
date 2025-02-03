@@ -14,10 +14,10 @@ My CV in PDF.
 
 ## Table of Contents.
 - [About.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#about)
-- 
+ 
 - [Project Portfolio.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   * SQL
-  	* data cleaning
+  	- [Employee_Layoff.sql]()
      * analysing
   * Python
      * data cleaning
