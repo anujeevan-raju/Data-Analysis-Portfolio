@@ -34,8 +34,16 @@ My CV in PDF.
 - [Contact.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 ## Portfolio Projects.
+### Employee Layoffs 2024
+**Code** - [employee_layoff_2024.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
 
-  
+**Description:** This project contains the details of the employees who god laid out off from company at the beginning of COVID - 19
+and till the end of JUNE 2024 
+
+**Skills:** ETL process, joins, CTE's, Windows Function, Aggregate functions, Converting data types.
+
+**Technology:** SQL Server, SSIS.
+   
 ## Education.
 **SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021**
  
