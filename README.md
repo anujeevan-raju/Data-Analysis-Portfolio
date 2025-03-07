@@ -55,7 +55,7 @@ and till the end of JUNE 2024
 **Technology:** SQL Server, SSIS.
 
 ### Pizza Sales
-**Code** - [Pizza_Sales.sql]
+**Code** - [Pizza_Sales.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/Pizza_Store.sql)
 
 **Description:** This project has the details of the sales at the pizza store 
 
