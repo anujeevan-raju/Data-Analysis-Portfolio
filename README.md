@@ -18,7 +18,7 @@ My CV in PDF.
 - [Project Portfolio.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   * SQL
   	  * [Employee_Layoff.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#employee-layoffs-2024)
-     * [Music_store.sql]()
+     * [Music_store.sql]
   * Python
      * data cleaning
      * analysing
@@ -45,7 +45,7 @@ and till the end of JUNE 2024
 **Technology:** SQL Server, SSIS.
 
 ### Music Store Analysis 2024
-**Code** - [music_store.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
+**Code** - [Music_Store.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/Music_Store.sql)
 
 **Description:** This project contains the details of the music store where i have performed EDA which gives us the insights of which country has the best values, which customer spent the most money, etc.  
 
