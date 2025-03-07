@@ -19,7 +19,7 @@ My CV in PDF.
   * SQL
   	  * [Employee_Layoff.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#employee-layoffs-2024)
      * [Music_store.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#music-store-analysis-2024)
-     * [Pizza_Sales.sql(study project)]
+     * [Pizza_Sales.sql(study project)](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#pizza-sales)
   * Python
      * data cleaning
      * analysing
