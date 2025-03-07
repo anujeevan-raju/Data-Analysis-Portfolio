@@ -18,7 +18,7 @@ My CV in PDF.
 - [Project Portfolio.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   * SQL
   	  * [Employee_Layoff.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#employee-layoffs-2024)
-     * [Music_store.sql]
+     * [Music_store.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#music-store-analysis-2024)
   * Python
      * data cleaning
      * analysing
