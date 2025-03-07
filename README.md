@@ -19,6 +19,7 @@ My CV in PDF.
   * SQL
   	  * [Employee_Layoff.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#employee-layoffs-2024)
      * [Music_store.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#music-store-analysis-2024)
+     * [Pizza_Sales.sql(study project)]
   * Python
      * data cleaning
      * analysing
@@ -50,6 +51,15 @@ and till the end of JUNE 2024
 **Description:** This project contains the details of the music store where i have performed EDA which gives us the insights of which country has the best values, which customer spent the most money, etc.  
 
 **Skills:** Creating tables, Altering tables, Joins, CTE's, Windows Function, Aggregate functions, Subqueries.
+
+**Technology:** SQL Server, SSIS.
+
+### Pizza Sales
+**Code** - [Pizza_Sales.sql]
+
+**Description:** This project has the details of the sales at the pizza store 
+
+**Skills:** ETL process, joins, CTE's, Windows Function, Aggregate functions, Subqueries.
 
 **Technology:** SQL Server, SSIS.
    
