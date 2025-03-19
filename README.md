@@ -17,9 +17,9 @@ My CV in PDF.
  
 - [Project Portfolio.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   * SQL
-  	  * [Employee_Layoff.sql](https://github.com/anujeevan-raju/Projects/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
-     * [Music_store.sql](https://github.com/anujeevan-raju/Projects/blob/main/Pizza_Store.sql)
-     * [Pizza_Sales.sql(study project)](https://github.com/anujeevan-raju/Projects/blob/main/Music_Store.sql)
+  	  * [Employee Layoff 2024](https://github.com/anujeevan-raju/Projects/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
+     * [Music_Store Sales](https://github.com/anujeevan-raju/Projects/blob/main/Music_Store.sql)
+     * [study project](https://github.com/anujeevan-raju/Projects/blob/main/Pizza_Store.sql)
   * Python
      * [Web Scraping(Youtube)](https://github.com/anujeevan-raju/Projects/blob/main/Youtube_Data_Scraping.ipynb)
      * [Arcade Store Sales](https://github.com/anujeevan-raju/Projects/blob/main/Arcade_Sales.ipynb)
