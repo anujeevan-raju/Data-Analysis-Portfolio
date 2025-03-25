@@ -27,7 +27,7 @@ My CV in PDF.
   * Power BI
      * data cleaning
      * analyzing
-  * Excel
+  * [Excel](https://github.com/anujeevan-raju/Projects/tree/main/Excel_Projects)
  
 - [Education.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#education)
   
