@@ -24,9 +24,8 @@ My CV in PDF.
      * [Web Scraping(Youtube)](https://github.com/anujeevan-raju/Projects/blob/main/Youtube_Data_Scraping.ipynb)
      * [Arcade Store Sales](https://github.com/anujeevan-raju/Projects/blob/main/Arcade_Sales.ipynb)
      * [Study Project](https://github.com/anujeevan-raju/Projects/blob/main/Marvel_Heros_Data.ipynb)
-  * Power BI
-     * data cleaning
-     * analyzing
+  * [Power BI](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/Power%20BI_Description.md)
+    
   * [Excel](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/Excel_Description.md)
  
 - [Education.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#education)
