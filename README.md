@@ -20,10 +20,8 @@ My CV in PDF.
   	  * [Employee Layoff 2024](https://github.com/anujeevan-raju/Projects/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
      * [Music_Store Sales](https://github.com/anujeevan-raju/Projects/blob/main/Music_Store.sql)
      * [study project](https://github.com/anujeevan-raju/Projects/blob/main/Pizza_Store.sql)
-  * Python
-     * [Web Scraping(Youtube)](https://github.com/anujeevan-raju/Projects/blob/main/Youtube_Data_Scraping.ipynb)
-     * [Arcade Store Sales](https://github.com/anujeevan-raju/Projects/blob/main/Arcade_Sales.ipynb)
-     * [Study Project](https://github.com/anujeevan-raju/Projects/blob/main/Marvel_Heros_Data.ipynb)
+  * [Python](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/Python_Description.md)
+  
   * [Power BI](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/Power%20BI_Description.md)
     
   * [Excel](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/Excel_Description.md)
