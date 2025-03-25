@@ -15,11 +15,9 @@ My CV in PDF.
 ## Table of Contents.
 - [About.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#about)
  
-- [Project Portfolio.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  * SQL
-  	  * [Employee Layoff 2024](https://github.com/anujeevan-raju/Projects/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
-     * [Music_Store Sales](https://github.com/anujeevan-raju/Projects/blob/main/Music_Store.sql)
-     * [study project](https://github.com/anujeevan-raju/Projects/blob/main/Pizza_Store.sql)
+- [Project Portfolio.](https://github.com/anujeevan-raju/Projects)
+  * [SQL](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/SQL_Description.md)
+  	 
   * [Python](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/Python_Description.md)
   
   * [Power BI](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/Power%20BI_Description.md)
@@ -31,35 +29,6 @@ My CV in PDF.
 - [Certifications.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#certificationsinternships)
   
 - [Contact.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#contact)
-
-## Portfolio Projects.
-### Employee Layoffs 2024
-**Code** - [employee_layoff_2024.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/EDA_EMPLOYEE_LAYOFFS.sql)
-
-**Description:** This project contains the details of the employees who god laid out off from company at the beginning of COVID - 19
-and till the end of JUNE 2024 
-
-**Skills:** ETL process, joins, CTE's, Windows Function, Aggregate functions, Converting data types.
-
-**Technology:** SQL Server, SSIS.
-
-### Music Store Analysis 2024
-**Code** - [Music_Store.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/Music_Store.sql)
-
-**Description:** This project contains the details of the music store where i have performed EDA which gives us the insights of which country has the best values, which customer spent the most money, etc.  
-
-**Skills:** Creating tables, Altering tables, Joins, CTE's, Windows Function, Aggregate functions, Subqueries.
-
-**Technology:** SQL Server, SSIS.
-
-### Pizza Sales
-**Code** - [Pizza_Sales.sql](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/Pizza_Store.sql)
-
-**Description:** This project has the details of the sales at the pizza store 
-
-**Skills:** ETL process, joins, CTE's, Windows Function, Aggregate functions, Subqueries.
-
-**Technology:** SQL Server, SSIS.
    
 ## Education.
 **SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021**
