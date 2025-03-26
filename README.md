@@ -27,7 +27,7 @@ My CV in PDF.
  
 - [Education.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#education)
   
-- [Certifications.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#certificationsinternships)
+- [Certifications.](https://github.com/anujeevan-raju/Certifications)
   
 - [Contact.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#contact)
    
@@ -40,8 +40,9 @@ My CV in PDF.
 
 **Athreya High School, Mandya - SSLC, Jun - 2012 to May - 2013**
 
-## Certifications/Internships.
-- [Data Analytics Essential Certificate](https://www.netacad.com/certificates?issuanceId=343eb145-b307-4aeb-9d67-0d94d0c4faa8) (Jan - 2025, By CISCO Network Academy) 
+## Certifications/Internships
+- [Data Analytics Essential Certificate](https://github.com/anujeevan-raju/Certifications/blob/main/Data%20Analytics%20Certificate%20by%20CISCO.pdf) (Jan - 2025, By CISCO Network Academy)
+- Python 
 
 ## Contact.
 
