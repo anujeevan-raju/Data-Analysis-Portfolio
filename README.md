@@ -42,7 +42,7 @@ My CV in PDF.
 
 ## Certifications/Internships
 - [Data Analytics Essential Certificate](https://github.com/anujeevan-raju/Certifications/blob/main/Data%20Analytics%20Certificate%20by%20CISCO.pdf) (Jan - 2025, By CISCO Network Academy)
-- Python 
+- [Data Analyst](https://learn.365datascience.com/c/34a7a393ba/) (Nov - 2024, By 365 Data Science)
 
 ## Contact.
 
