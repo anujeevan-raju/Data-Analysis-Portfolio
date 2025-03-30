@@ -2,11 +2,11 @@
 
 ## About.
 
-Hello, I'm Anujeevan R, with a 1.5 years of experience as a SQL Developer, I am enthusiastic about moving into the data analytics field. My professional background and self-directed learning have equipped me with a solid understanding of database management and data manipulation, which I am eager to utilize in an entry-level data analyst position.
+Hi! My name is Anujeevan R. And I am a SQL developer for 1.5 years, having a keen interest to shift in the field of data analytics. My work experience along with some self study has given me a fair understanding of how databases are maintained and how data is processed and I wish to apply those skills as a junior level data analyst.
 
-In my role as a SQL Developer, I have refined my technical abilities by working with complex queries and database structures. I am skilled in key data analysis tools such as SQL, Python, Excel, and Power BI. Crafting efficient queries and developing data visualizations has enhanced my analytical skills and problem-solving capabilities.
+As a SQL Developer, I have developed and improved my professional skills by dealing with intricate queries and database designs. I know computer language,s such as SQL, python, and also know how to use other software like Excel, Power BI. My ability to solve problems has improved because I can create effective queries and build data visualizations.
 
-I am keen to utilize my existing technical knowledge while expanding my role in data analysis. I enjoy exploring data from multiple perspectives to uncover significant insights and patterns that can inform business decisions.
+As an individual with a solid grounding in technical skills, I wish to broaden my focus from basic IT functions to more deeper, data driven analysis. I love to analyze data from different angles to discover critical information and patterns that would assist in making important business decisions.
 
 Outside of work, I am a dedicated cricket player and love to travel to new places. I also find solace in listening to music. Whether working independently or as part of a team, I am driven by the thrill of transforming raw data into actionable insights and am always looking to enhance my expertise in data analytics.
 
@@ -49,7 +49,7 @@ My CV in PDF.
 ## Contact.
 
 - Email: anujeevanr.65@gmail.com
-- Linkedin:
+- Linkedin: www.linkedin.com/in/anujeevan-r
 
 
  
