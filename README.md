@@ -17,13 +17,13 @@ My CV in [PDF](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/ma
  
 - [Project Portfolio.](https://github.com/anujeevan-raju/Projects)
   
-  * [SQL](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/SQL_Description.md)
+  * [SQL](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/SQL_Projects_Description.md)
   	 
-  * [Python](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/Python_Description.md)
+  * [Python](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/Python_Projects_Description.md)
   
-  * [Power BI](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/Power%20BI_Description.md)
+  * [Power BI](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/Power%20BI_Projects_Description.md)
     
-  * [Excel](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/Excel_Description.md)
+  * [Excel](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/Excel_Projects_Description.md)
  
 - [Education.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#education)
   
