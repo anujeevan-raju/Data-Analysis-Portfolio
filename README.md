@@ -10,7 +10,7 @@ As an individual with a solid grounding in technical skills, I wish to broaden m
 
 Outside of work, I am a dedicated cricket player and love to travel to new places. I also find solace in listening to music. Whether working independently or as part of a team, I am driven by the thrill of transforming raw data into actionable insights and am always looking to enhance my expertise in data analytics.
 
-My CV in PDF.
+My CV in [PDF](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/Anujeevan_R_CV.pdf).
 
 ## Table of Contents.
 - [About.](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/main/README.md#about)
