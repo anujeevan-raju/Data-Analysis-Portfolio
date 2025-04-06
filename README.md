@@ -45,6 +45,7 @@ My CV in [PDF](https://github.com/anujeevan-raju/Data-Analysis-Portfolio/blob/ma
 - [Data Analyst](https://learn.365datascience.com/c/34a7a393ba/) (Nov - 2024, By 365 Data Science)
 - [Intro to Data Science](https://github.com/anujeevan-raju/Certifications/blob/main/Intro%20to%20Data%20Science.pdf) (Dec - 2024, By Forage)
 - [Python](https://github.com/anujeevan-raju/Certifications/blob/main/Python.pdf) (Mar - 2025, By Udemy)
+- [Power BI](https://github.com/anujeevan-raju/Certifications/blob/main/Power_BI_Simplilearn.pdf) (Oct - 2024, By Simplilearn)
 
 ## Contact.
 
